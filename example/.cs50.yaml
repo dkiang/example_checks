@@ -3,4 +3,4 @@ check50:
     hello world:
       - run: python3 hello.py
         stdout: Hello, world!
-        exit:0
+        exit: 0
